@@ -73,7 +73,7 @@
   max-width: 800px;
 }
 
-.card {
+.card,.input {
   margin: 1rem;
   padding: 1.5rem;
   text-align: left;
